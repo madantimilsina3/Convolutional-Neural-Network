@@ -1,0 +1,1 @@
+Here, the more quality images you add, the more trained will be your model. More images expose the model to diverse variations (e.g., lighting, poses, breeds), helping it learn robust features instead of memorizing specific examples. So add more images of cats for the sake of betterment of detection at final output.
