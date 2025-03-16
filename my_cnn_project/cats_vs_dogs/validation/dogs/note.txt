@@ -1,0 +1,1 @@
+This folder contains 20% of dog images from the train's dog folder, so keep adding more and more image in your train folder to train model and split 20% of image from train's dog folder to here. 

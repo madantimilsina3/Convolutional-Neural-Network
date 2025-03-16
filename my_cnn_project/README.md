@@ -6,7 +6,7 @@
 **Key Outcomes**:  
 - Achieved **95.56% validation accuracy** in 10 epochs using MobileNetV2  
 - Implemented data augmentation to reduce overfitting  
-- Leveraged NVIDIA CUDA on WSL2 for 5x faster training  
+- Leveraged NVIDIA CUDA on WSL2 for faster training  
 
 **Demo**:  
 Website URL
